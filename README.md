@@ -405,12 +405,6 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Girinath11/recursive-language-model&type=Date)](https://star-history.com/#Girinath11/recursive-language-model&Date)
-
----
-
 <div align="center">
 
 **Made with ❤️ and lots of ☕**
